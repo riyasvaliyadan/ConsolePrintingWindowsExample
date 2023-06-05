@@ -1,10 +1,24 @@
 ﻿using System;
 using System.Drawing;
 using System.Drawing.Printing;
+using System.Windows;
 
 class Program
 {
     static void Main(string[] args)
+    {
+        Console.WriteLine("Do you want to print out? [Y/N]");
+        var input = Console.ReadLine();
+        if (input == "Y")
+        {
+            Print("Hello");
+        } else {
+            Console.ReadKey();
+        }
+        
+    }
+
+    static void Print(string text)
     {
         var document = new PrintDocument();
         document.PrintPage += PrintPageHandler;
