@@ -1,0 +1,11 @@
+C:\Users\riyas\source\repos\ConsolePrintingWindowsExample\ConsolePrintingWindowsExample\bin\Debug\ConsolePrintingWindowsExample.exe.config
+C:\Users\riyas\source\repos\ConsolePrintingWindowsExample\ConsolePrintingWindowsExample\bin\Debug\ConsolePrintingWindowsExample.exe
+C:\Users\riyas\source\repos\ConsolePrintingWindowsExample\ConsolePrintingWindowsExample\bin\Debug\ConsolePrintingWindowsExample.pdb
+C:\Users\riyas\source\repos\ConsolePrintingWindowsExample\ConsolePrintingWindowsExample\bin\Debug\System.Drawing.Common.dll
+C:\Users\riyas\source\repos\ConsolePrintingWindowsExample\ConsolePrintingWindowsExample\bin\Debug\System.Drawing.Common.xml
+C:\Users\riyas\source\repos\ConsolePrintingWindowsExample\ConsolePrintingWindowsExample\obj\Debug\ConsolePrintingWindowsExample.csproj.AssemblyReference.cache
+C:\Users\riyas\source\repos\ConsolePrintingWindowsExample\ConsolePrintingWindowsExample\obj\Debug\ConsolePrintingWindowsExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\riyas\source\repos\ConsolePrintingWindowsExample\ConsolePrintingWindowsExample\obj\Debug\ConsolePrintingWindowsExample.csproj.CoreCompileInputs.cache
+C:\Users\riyas\source\repos\ConsolePrintingWindowsExample\ConsolePrintingWindowsExample\obj\Debug\ConsolePrintingWindowsExample.csproj.CopyComplete
+C:\Users\riyas\source\repos\ConsolePrintingWindowsExample\ConsolePrintingWindowsExample\obj\Debug\ConsolePrintingWindowsExample.exe
+C:\Users\riyas\source\repos\ConsolePrintingWindowsExample\ConsolePrintingWindowsExample\obj\Debug\ConsolePrintingWindowsExample.pdb
