@@ -1,11 +1,10 @@
 ﻿using System;
 using System.Drawing;
 using System.Drawing.Printing;
-using System.Windows;
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
         Console.WriteLine("Do you want to print out? [Y/N]");
         var input = Console.ReadLine();
