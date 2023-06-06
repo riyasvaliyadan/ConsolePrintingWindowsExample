@@ -6,18 +6,30 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Do you want to print out? [Y/N]");
-        var input = Console.ReadLine();
-        if (input == "Y")
+        while(true)
         {
-            Print("Hello");
-        } else {
-            Console.ReadKey();
+            Console.Clear();
+
+            Console.Write("What you want? [print/help/exit]\n>> ");
+            var input = Console.ReadLine();
+
+            switch (input.ToLower())
+            {
+                case "print":
+                    Print(); 
+                    break;
+                case "help":
+                    return;
+                case "exit":
+                    return;
+                default:
+                    break;
+
+            }
         }
-        
     }
 
-    static void Print(string text)
+    static void Print()
     {
         var document = new PrintDocument();
         document.PrintPage += PrintPageHandler;
@@ -45,6 +57,6 @@ class Program
         float y = 10;
 
         // Print the text
-        graphics.DrawString("Hello, world!", font, brush, x, y);
+        graphics.DrawString("The possibilities are endless!", font, brush, x, y);
     }
 }
